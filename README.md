@@ -2,7 +2,7 @@
 
 ## Description
 
-- This webpage organizes the concepts I (or anyone intersted in enrolling in the bootcamp) needed study
+- This webpage organizes the concepts I (or anyone intersted in enrolling in the bootcamp) needed to study
 before the bootcamp proper began.
 -   In building this project, I learnt the basic principles of how to use HTML to structure a webpage, use 
 CSS to style it, use Git for version control and Github to collaborate with other developers, and how to use
